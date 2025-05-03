@@ -14,3 +14,5 @@ SELECT * from only_name;
 
 ----DROP TABLE table_name;----
 DROP TABLE only_name;
+
+show tables;
