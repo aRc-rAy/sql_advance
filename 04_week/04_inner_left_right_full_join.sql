@@ -142,4 +142,7 @@ RIGHT JOIN address a
 on l.id = a.id;
 
 
-
+-------------------------- inner join with address table --------------------------
+select * from left_table l
+inner JOIN address a
+ON l.id = a.id;
